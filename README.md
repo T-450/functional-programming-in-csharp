@@ -16,6 +16,8 @@ Notes based on the book [Functional Programming in C# by Enrico Buonanno](https:
 ### Links:
 
 [Out of the Tar Pit by Ben Moseley and Peter Marks](http://mng.bz/xXK7)
+
 [C# Patterns Specification.](https://docs.microsoft.com/en-us/dotnet/csharp/languagereference/
 operators/patterns)
+
 [Functional Programming in C#](https://docs.microsoft.com/en-us/shows/visual-studio-toolbox/functional-programming-in-csharp)
