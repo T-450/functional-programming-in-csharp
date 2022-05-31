@@ -399,7 +399,6 @@ static decimal RateByState(string state)
 ### Links:
 
 [Functional Programming in CSharp](https://www.manning.com/books/functional-programming-in-c-sharp-second-edition)
+
 [Out of the Tar Pit by Ben Moseley and Peter Marks](http://mng.bz/xXK7)
 
----
-Source: 
